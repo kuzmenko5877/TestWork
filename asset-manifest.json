@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TestWork/static/css/main.1755a883.css",
+    "main.js": "/TestWork/static/js/main.d57d77da.js",
+    "static/media/promote.svg": "/TestWork/static/media/promote.53cd2f991a808cc7f381c7fee1ac2143.svg",
+    "static/media/income.svg": "/TestWork/static/media/income.c2763eccfbde9594cf1319141b58ca9f.svg",
+    "static/media/product.svg": "/TestWork/static/media/product.2d683b77c1242e7b58f1d6236ddde5f9.svg",
+    "static/media/help.svg": "/TestWork/static/media/help.7f1d1f1f07e55916d3cb2fb68f519663.svg",
+    "static/media/customer.svg": "/TestWork/static/media/customer.77e7b28e0b328e18a3ea7fc0910b3792.svg",
+    "static/media/dashboard.svg": "/TestWork/static/media/dashboard.d7539fec7e45a5c3bbaa0638746ffa26.svg",
+    "index.html": "/TestWork/index.html",
+    "main.1755a883.css.map": "/TestWork/static/css/main.1755a883.css.map",
+    "main.d57d77da.js.map": "/TestWork/static/js/main.d57d77da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1755a883.css",
+    "static/js/main.d57d77da.js"
+  ]
+}
